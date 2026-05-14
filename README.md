@@ -69,15 +69,11 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 ## Program
 
-### Developed By:
-**Name:** ____________________________  
+### Developed By:  HARISH S
 
-### Register No:
-____________________________  
-
+### Register No: 212223230071
 ---
 
-##  Output
 
 ### Grayscale Histogram Equalization
 
